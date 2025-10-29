@@ -1,4 +1,3 @@
-import { NavBar } from "@/components/nav-bar";
 import { WikiCard } from "@/components/wiki-card";
 
 export default function Home() {
