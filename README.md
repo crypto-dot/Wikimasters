@@ -36,4 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 # Live site
-https://wikimasters-ag7lb0t9c-cryptodot1s-projects.vercel.app/
+[https://wikimasters-ag7lb0t9c-cryptodot1s-projects.vercel.app/](https://wikimasters-git-main-cryptodot1s-projects.vercel.app?_vercel_share=pT7rm4GCzYYrdcjhb3WEJvWy3OjNw0Lo)
